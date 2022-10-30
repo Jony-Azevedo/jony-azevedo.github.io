@@ -1,0 +1,49 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+  }
+
+  .logo1{
+    background-color: black;
+    height: 400px;
+    width: 100%;
+    bottom: -50px;
+  }
+#imagem{
+    position: absolute;
+    left: 35%;
+    right: 35%;
+
+
+}
+.funcao1{
+    font-family: Arial;
+    font-style:red;
+    height: 30px;
+    right: 500px;
+   
+
+}
+#nav{
+    position: absolute;
+    left: 45%;
+    right: 45%;
+}
+
+#btn1{
+    font-family: Arial;
+    right: 30px;
+}
+
+
+p{
+color: white;
+margin: 0 0 1.25rem 0;
+}
+h2{
+    color: red;
+}
+#imagem2{
+    width: 100%;
+}
